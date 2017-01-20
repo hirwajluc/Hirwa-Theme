@@ -7,3 +7,5 @@
  Version: 1.0  
 
  Tags: two-columns, fixed-width, custom-background, threaded-comments, translation-ready, custom-menu  
+To see this theme in action click on the following link:  
+http://rwandapaparazzi.rw
