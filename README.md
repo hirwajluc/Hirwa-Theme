@@ -1,6 +1,6 @@
 # Hirwa-Theme
  Theme Name: Hirwa  
- Theme URI: http://5clicksltd.com/  
+ Theme URI: https://github.com/hirwajluc/Hirwa-Theme  
  Description: A Premium Wordpress News Theme  
  Author: Hirwa Jean Luc  
  Author URI: http://5clicksltd.com/  
